@@ -5,7 +5,7 @@ Current version: v1.0.0
 * iOS SDK 10.3+
 * WebKit.framework
 ## Installation
-* Download the latest released version and save on folder lib 
+* Download the latest released version (https://github.com/opencontrol-develop/opencontrol-mobile-swift-example/releases/download/1.0.0/SDK-V1.0.0.zip)
 * Add opencontrol library
   * Go to **Build Phases -> Link Binary With Libraries** 
   * Click **Add items**
