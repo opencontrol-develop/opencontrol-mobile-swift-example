@@ -13,7 +13,7 @@
 		9D6C0DEB2388411B00438597 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D6C0DE92388411B00438597 /* Main.storyboard */; };
 		9D6C0DED2388411C00438597 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D6C0DEC2388411C00438597 /* Assets.xcassets */; };
 		9D6C0DF02388411C00438597 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D6C0DEE2388411C00438597 /* LaunchScreen.storyboard */; };
-		9D6C0DF9238841B000438597 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6C0DF8238841B000438597 /* WebKit.framework */; };
+		9D6C0DF9238841B000438597 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6C0DF8238841B000438597 /* WebKit.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		9D6C0DFB238841BE00438597 /* libOpencontrol.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D6C0DFA238841BE00438597 /* libOpencontrol.a */; };
 /* End PBXBuildFile section */
 
