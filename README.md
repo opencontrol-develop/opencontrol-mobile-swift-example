@@ -1,6 +1,7 @@
 iOS swift library for collect device information
 
 Current version: v1.0.0
+Looking for Objetive-C Version? Checkout: (https://github.com/opencontrol-develop/opencontrol-mobile-objectivec-example) 
 ## Requirements
 * iOS SDK 10.3+
 * WebKit.framework
